@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+  <body>
+  <h1>Cover Letter</h1>
+  <p>Hello, <strong>I'm Sun.</strong> My goal is going to be a Developer and working in Canada </p>
+  <h2>Fovorit Foods</h2>
+  <ul>
+  <li>김치찌개</li>
+  <li>삼겹살</li>
+  <li>돈까스</li>
+    </ul>
+<h2>Favorit Singer</h2>
+  <img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTGzXtebnTFgLxUGLJIEBKfBDquRZedi98Cne0hYFmgSv1XwDn5msSEgQiS89ooXFJTLJ7y"/>
+  <div>홍이삭</div>
+  <a href="https://www.google.com/search?q=%ED%99%8D%EC%9D%B4%EC%82%AD&rlz=1C5CHFA_enCA1075KR1093&oq=%ED%99%8D%EC%9D%B4%EC%82%AD&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyDQgBEC4YgwEYsQMYgAQyDQgCEAAYgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDAgFEAAYFBiHAhiABDINCAYQABiDARixAxiABDINCAcQLhiDARixAxiABDINCAgQABiDARixAxiABDINCAkQABiDARixAxiABKgCALACAA&sourceid=chrome&ie=UTF-8#vhid=BqkQbP1Y0jo4pM&vssid=l:~:text=Main%20results-,%ED%99%8D%EC%9D%B4%EC%82%AD,https%3A//namu.wiki%20%E2%80%BA%20%ED%99%8D%EC%9D%B4%EC%82%AD,-%EB%B6%84%EB%A5%98%20%C2%B7%20%ED%95%9C%EA%B5%AD%20%EB%82%A8%EA%B0%80%EC%88%98">홍이삭 나무위키</a>
+<h2>Favorit Song</h2>
+    
+    <audio src="노래/BLACKPINK-DDU-DU-DDU-DU.mp3" controls>
+  </audio>
+  <h2>인적사항</h2>
+
+  <table>
+    <caption>Q&A comeon!</caption>
+  <table border="1">
+    <tr>  
+      <th>질문</th>
+      <th>답변</th>
+      </tr>
+    <tr>
+      <td>사는곳</td>
+      <td>캐나다</td>
+      </tr>
+    <tr>
+      <td>연봉원츄?</td>
+      <td>많이</td>
+    </tr>  
+    </table>
+  테이블 쓰는 방법을 모르겠다고? <u>그럼 검색해봐!!</u>
+  
+  <h2>연락&문의</h2>
+    <input type="text" placeholder="궁금한 사항을 적어주세요"/>
+    <button>전송</button>
+  
+</body>
+
+</html>
